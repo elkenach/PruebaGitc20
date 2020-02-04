@@ -1,0 +1,6 @@
+Int a = 0, b = 0, resultado = 0;
+
+resultado = a + b;
+
+Mostrar "El resultado de la suma es: " + resultado;
+
